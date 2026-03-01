@@ -11,7 +11,7 @@ Open index.html in your browser (works on Chrome, Firefox, or Edge).
 
 Ducks 🦆 will appear on the screen and move around.
 
-Click 🎯 on a duck to “shoot” it and earn points 🏆.
+Click on a duck 🖱️ using your mouse to shoot it and earn points 🏆.
 
 Each duck you shoot increases your score by 1.
 
