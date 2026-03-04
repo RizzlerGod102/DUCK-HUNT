@@ -5,7 +5,7 @@ Shoot as many ducks as you can before they escape!
 
 How to Play:
 
-Download the game ZIP file and extract it to your computer.
+Download the game ZIP file and extract it to your computer by pressing the green code button
 
 Open index.html in your browser (works on Chrome, Firefox, or Edge).
 
