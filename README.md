@@ -18,3 +18,9 @@ Each duck you shoot increases your score by 1.
 When all ducks are shot, a dog 🐶 will appear to celebrate your victory.
 
 After 5 seconds, a new set of ducks will appear automatically.
+
+Screenshots:
+
+![Snake Game Screenshot](duckhuntgame.png)
+
+![Snake Game Screenshot](duckhuntgame2.png)
