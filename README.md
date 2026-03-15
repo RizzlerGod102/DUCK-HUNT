@@ -3,7 +3,7 @@
 Objective:
 Shoot as many ducks as you can before they escape!
 
-How to Play:
+How to Play the game:
 
 Download the game ZIP file and extract it to your computer by pressing the green code button
 
